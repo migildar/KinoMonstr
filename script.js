@@ -22,5 +22,5 @@ console.log(person['name']);
 //let answer = confirm('Ты готов?');
 //console.log(answer);
 
-//let answer = prompt('Есть ли Вам 18?', 'Да');
+let answer = prompt('Есть ли Вам 18?', 'Да');
 console.log(typeof(null));
